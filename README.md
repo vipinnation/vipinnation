@@ -1,14 +1,9 @@
-- 👋 Hi, I’m Vipin Singh Inkiya
-- 👀 I’m interested in MERN Stack Web Development
-- 🌱 I’m currently learning Docker 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 vipinnation/vipinnation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi 👋 My name is Vipin Singh Inkiya
+Hi 👋 I'm Vipin Singh Inkiya
 ===================================
 
 MERN Stack Developer
@@ -16,7 +11,7 @@ MERN Stack Developer
 
 * 🌍  I'm based in Jodhpur, Rajasthan
 * ✉️  You can contact me at [vipinnation@gmail.com](mailto:vipinnation@gmail.com)
-* 🧠  I'm learning Next Js
+* 🧠  I'm learning DevOps
 
 ### Skills
 
@@ -39,6 +34,7 @@ MERN Stack Developer
 </p>
 
 
+- 📫 How to reach me ...
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/vipinnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/the_coldhand" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vipinnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/vipinnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vipinnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
