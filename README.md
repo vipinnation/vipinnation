@@ -12,7 +12,7 @@ MERN Stack Developer
 * 🌍  I'm based in Jodhpur, Rajasthan
 * ✉️  You can contact me at [vipinnation@gmail.com](mailto:vipinnation@gmail.com)
 * 🧠  I'm learning DevOps     
-* 💬 Ask me about React Js, NodeJs and Sprint Boot
+* 💬 Ask me about React Js, NodeJs and Spring Boot
 
 ### Skills
 
